@@ -1,0 +1,53 @@
+.navbar-brand img{
+    height: 60px;
+    
+}
+.image-i img{
+    height: 10px;
+    width: 10px;
+}
+.navbar{
+    background-color:  #0071dc;
+    max-width: 100%;
+}
+#pratik{
+    background-color: #002d58;
+}
+#sh ul li{
+    list-style-type: none;
+}
+#sharma{
+    background-color: rgb(242, 248, 253);
+    padding: 15px;
+}
+#opt{
+    border: 1px solid black;
+    border-radius: 8px;
+    position: relative;
+    bottom: 10px;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+#down{
+    margin-top: 40px;
+}
+
+#foot{
+    background-color: #e6f1fc;
+}
+#sf ul li{
+    list-style-type: none;
+    color: white;
+    
+}
+#sf{
+    background-color: #004f9a;
+}
+
+#pratikss{
+    background-color: #004f9a;
+}
+#pratikss p{
+    color: white;
+    
+}
